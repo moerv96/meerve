@@ -52,7 +52,7 @@ public interface BestellungReadInterface {
 	/**
 	 * 
 	 * @param bestellnummer
-	 *            bestellnummer
+	 *              bestellnummer
 	 * @return Bestelldatum einer Bestellung
 	 */
 	String getBestelldatum(int bestellnummer);
